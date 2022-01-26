@@ -1,4 +1,4 @@
-package object.pool;
+package objectpool;
 
 public class ReusablePool extends ObjectPool {
 

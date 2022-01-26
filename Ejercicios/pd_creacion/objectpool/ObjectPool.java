@@ -1,4 +1,4 @@
-package object.pool;
+package objectpool;
 
 import java.util.HashMap;
 

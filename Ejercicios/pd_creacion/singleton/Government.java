@@ -6,7 +6,7 @@ public class Government {
 
     private Government () { }
 
-    public synchronized static Government getGovernment(){
+    public static Government getGovernment(){
         if(government == null){
             government = new Government();
         }
